@@ -647,3 +647,6 @@ jsonresume:
   - languages
   - interests
   - references
+
+gems:
+  - jekyll-toc
