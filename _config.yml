@@ -199,6 +199,9 @@ collections:
     output: true
     permalink: /:collection/:title/
 
+plugins:
+  - jekyll-toc
+
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
